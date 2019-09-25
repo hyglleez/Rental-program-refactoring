@@ -1,1 +1,2 @@
 # Rental-program-refactoring
+For every type of item, I built a class for it. My anticipated item is vinyl. And I also built a rental class for each of them. Because different item has different amount calculation method.  But there’s only one sale class. Because there’s no difference between every type’s sales. Different type of item has its own categories. Depending on the categories, the program can calculate the frequent rental points. These works can be finished by the one of 3 different strategies chosen by user’s preference. 
